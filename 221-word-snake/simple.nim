@@ -32,3 +32,28 @@ if isMainModule:
       count = count + 1
   else:
     echo "This is not a proper snake"
+
+discard """ OUTPUT
+SHENANIGANS
+          S
+          A
+          L
+          T
+          Y
+          YOUNGSTER
+                  R
+                  O
+                  U
+                  N
+                  D
+                  DOUBLET
+                        T
+                        E
+                        R
+                        A
+                        B
+                        Y
+                        T
+                        E
+                        ESSENCE
+"""
