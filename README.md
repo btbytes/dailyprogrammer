@@ -1,5 +1,6 @@
 # Solutions to the /r/DailyProgrammer challenges
 
+- [221-word-snake](221-word-snake)
 
 
 
