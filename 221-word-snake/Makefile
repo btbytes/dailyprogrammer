@@ -1,10 +1,12 @@
-run: simple.nim
-	nim c -r simple.nim
+run: easy.nim
+	nim c -r $<
 
-simple: simple.nim
-	nim c simple.nim
+easy: easy.nim
+	nim c $<
 
 .PHONY:
 clean:
-	rm -f simple
+	rm -f easy
+	rm -f intr
+	rm -f hard
 	rm -rf nimcache
